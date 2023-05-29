@@ -1,7 +1,7 @@
 # Kalman Filter Tests
 I was getting nowhere with trying to learn the details of Kalman Filtering off the internet or I purely didn't know what to look for. I had a decent idea of what the filter is used for and I decided to try and build a simulator that does just that. 
 
-##Steps
+## Steps
 I'm going to jot down the steps of whatever I think I want to try so that I don't loose track along the way. 
 
 *Make a pygame interface that simulates a car in a 1D motion, where I randomize the velocity is a controlled range
